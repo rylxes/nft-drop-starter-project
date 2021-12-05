@@ -1,0 +1,19 @@
+{
+  "name": "Fitness",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HKzZ1R2bgfXRpkByayLYHHZaGW3n48kR6wAuys6W4k5f",
+        "share": 100
+      }
+    ]
+  }
+}
